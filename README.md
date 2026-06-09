@@ -1,4 +1,3 @@
-# Sign-up.html
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,34 +7,34 @@
 
 <style>
 body{
-font-family:Arial,sans-serif;
-background:#111;
-color:white;
-text-align:center;
-padding:50px;
+  font-family: Arial, sans-serif;
+  background:#111;
+  color:white;
+  text-align:center;
+  padding:50px;
 }
 
 form{
-max-width:400px;
-margin:auto;
+  max-width:400px;
+  margin:auto;
 }
 
 input{
-width:100%;
-padding:12px;
-margin:10px 0;
-border:none;
-border-radius:5px;
+  width:100%;
+  padding:12px;
+  margin:10px 0;
+  border:none;
+  border-radius:5px;
 }
 
 button{
-background:#d4af37;
-color:black;
-padding:12px 20px;
-border:none;
-border-radius:5px;
-font-weight:bold;
-cursor:pointer;
+  background:#d4af37;
+  color:black;
+  padding:12px 20px;
+  border:none;
+  border-radius:5px;
+  font-weight:bold;
+  cursor:pointer;
 }
 </style>
 </head>
@@ -45,13 +44,11 @@ cursor:pointer;
 <h1>Create Account</h1>
 
 <form>
-<input type="email" placeholder="Email Address">
-<input type="password" placeholder="Password">
-<input type="password" placeholder="Confirm Password">
+  <input type="email" placeholder="Email Address">
+  <input type="password" placeholder="Password">
+  <input type="password" placeholder="Confirm Password">
 
-<button type="submit">
-Create Account
-</button>
+  <button type="submit">Create Account</button>
 </form>
 
 </body>
