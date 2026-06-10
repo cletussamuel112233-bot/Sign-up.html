@@ -47,7 +47,6 @@ button{
   <input type="email" placeholder="Email Address">
   <input type="password" placeholder="Password">
   <input type="password" placeholder="Confirm Password">
-
   <button type="submit">Create Account</button>
 </form>
 
